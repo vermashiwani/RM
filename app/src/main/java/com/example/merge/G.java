@@ -1,2 +1,4 @@
-package com.example.merge;public class G {
+package com.example.merge;
+
+public class G {
 }
